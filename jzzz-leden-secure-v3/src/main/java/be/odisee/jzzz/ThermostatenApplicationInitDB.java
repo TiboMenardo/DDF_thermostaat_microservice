@@ -16,10 +16,8 @@ public class ThermostatenApplicationInitDB implements CommandLineRunner{
     @Autowired
     ThermostaatRepository thermostaatRepository;
 
-
     @Override
     public void run(String... args) throws Exception {
-
         List<Thermostaat> thermostaten = Arrays.asList(
                 new Thermostaat(1, 1, "2022-01-01", "2022-03-15", "Leverancier1", "Adres1"),
                 new Thermostaat(2,2, "2022-02-01", "2022-04-15", "Leverancier2", "Adres2"),
