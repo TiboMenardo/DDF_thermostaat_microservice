@@ -57,7 +57,11 @@ public class ThermostaatRestController {
             @RequestParam(name = "leverancier", required = false) String leverancier,
             @RequestParam(name = "adres", required = false) String adres) {
 
-        Thermostaat thermostaatData = new Thermostaat();
+        Thermostaat thermostaatData = beheerThermostaatService.getThermostaatFromID(id);
+        if (thermostaatData == null) {
+            return new ResponseEntity<>("Thermostaat with ID " + id + " not found", HttpStatus.NOT_FOUND);
+        }
+
         if (klantID != null) {
             thermostaatData.setKlantID(klantID);
         }
