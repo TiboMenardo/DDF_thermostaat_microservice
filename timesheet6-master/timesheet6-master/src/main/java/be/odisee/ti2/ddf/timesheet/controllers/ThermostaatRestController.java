@@ -43,7 +43,7 @@ public class ThermostaatRestController {
     }
 
     @GetMapping("/thermostaten/{id}")
-    public Object GetAllThermostaten(@PathVariable("id") int id){
+    public Object GetAllThermostatenKlant(@PathVariable("id") int id){
         return beheerThermostaatService.getThermostatenfromKlantID(id);
     }
 

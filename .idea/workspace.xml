@@ -6,33 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1962fb62-fb61-4770-b615-1eca31dbf2af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/BeheerThermostatenApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/BeheerThermostatenApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/BeheerThermostatenApplicationInitDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/BeheerThermostatenApplicationInitDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/EncryptSomePasswords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/WebConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/controllers/HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/controllers/ThermostaatController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/controllers/ThermostaatRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/controllers/ThermostaatRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/dao/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/formdata/ThermostaatData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/service/BeheerThermostaatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/service/BeheerThermostaatService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/service/BeheerThermostaatServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/service/BeheerThermostaatServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/java/be/odisee/ti2/ddf/timesheet/service/UserDetailsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/403.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/byebye.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/entry.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/templates/403.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/templates/byebye.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/templates/error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/templates/thermostaat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/src/main/resources/templates/thermostaat.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +128,7 @@
       <workItem from="1684828564824" duration="3808000" />
       <workItem from="1684929855021" duration="97000" />
       <workItem from="1684930051688" duration="2739000" />
+      <workItem from="1684936404758" duration="3534000" />
     </task>
     <servers />
   </component>
