@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DDF_thermostaat_microservice.iml" filepath="$PROJECT_DIR$/.idea/DDF_thermostaat_microservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jzzz-leden-secure-v3/jzzz-leden-secure.iml" filepath="$PROJECT_DIR$/jzzz-leden-secure-v3/jzzz-leden-secure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Opdracht3.iml" filepath="$PROJECT_DIR$/.idea/Opdracht3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timesheet6-master/timesheet6-master/timesheet6.iml" filepath="$PROJECT_DIR$/timesheet6-master/timesheet6-master/timesheet6.iml" />
     </modules>
   </component>
 </project>
